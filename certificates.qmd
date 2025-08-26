@@ -1,0 +1,68 @@
+::: {.content-section}
+::: {.content-container}
+# Certificates & Achievements
+
+*A collection of professional certifications and academic honors that demonstrate my commitment to continuous learning and professional development.*
+
+## Professional Certifications
+
+::: {.cert-grid}
+::: {.cert-card}
+**Association of Chartered Certified Accountants (ACCA) - Associate**  
+*Association of Chatered Certified Accountants (ACCA)*  
+**Issued:** March 2022 
+
+The Association of Chartered Certified Accountants is the global professional accounting body offering the Chartered Certified Accountant qualification.
+:::
+
+::: {.cert-card}
+**Certified Digital Marketing Associate**  
+*Digital Marketing Institute*  
+**Issued:** June 2025 
+
+Advanced certification in Digital Marketing.
+:::
+
+::: {.cert-card}
+**BBA of Business Administration**  
+*University of Professional Studies, Accra (UPSA)*  
+**Issued:** August 2020
+
+Studied basic principles in business areas such as administration, governance, operations, finance and accounting.
+:::
+:::
+
+::: {.text-center .mt-8}
+**Ready to apply these skills?**
+
+I'm always eager to take on new challenges and apply my expertise to meaningful projects. Let's discuss how I can contribute to your organization's success.
+
+[Get In Touch](contact.qmd){.btn .btn-primary}
+:::
+:::
+:::
+
+<script>
+// Add staggered animation for certificate cards
+document.addEventListener('DOMContentLoaded', function() {
+  const certCards = document.querySelectorAll('.cert-card');
+  
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry, index) => {
+      if (entry.isIntersecting) {
+        setTimeout(() => {
+          entry.target.style.opacity = '1';
+          entry.target.style.transform = 'translateY(0)';
+        }, index * 100);
+      }
+    });
+  });
+  
+  certCards.forEach((card) => {
+    card.style.opacity = '0';
+    card.style.transform = 'translateY(30px)';
+    card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+    observer.observe(card);
+  });
+});
+</script>

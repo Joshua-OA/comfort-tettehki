@@ -1,0 +1,164 @@
+::: {.content-section}
+::: {.content-container}
+# Contact
+
+*I'm always interested in connecting with professionals, exploring new opportunities, and discussing innovative business ideas. Let's start a conversation.*
+
+## Get In Touch
+
+::: {.contact-grid .mt-6}
+::: {.contact-item}
+::: {.contact-icon}
+📧
+:::
+### Email
+cassynipah@yahoo.com
+
+[Send Email](mailto:cassynipah@yahoo.com){.btn .btn-primary .mt-2}
+:::
+
+::: {.contact-item}
+::: {.contact-icon}
+📱
+:::
+### Phone
++1 (604) 363-3648
+
+[Call Now](tel:+16043633648){.btn .btn-primary .mt-2}
+:::
+
+::: {.contact-item}
+::: {.contact-icon}
+💼
+:::
+### LinkedIn
+Connect professionally
+
+[View Profile](https://linkedin.com/in/comfortnipah){.btn .btn-primary .mt-2 target="_blank"}
+:::
+
+::: {.contact-item}
+::: {.contact-icon}
+🌐
+:::
+### Location
+Langley, BC
+*Available for remote work*
+:::
+:::
+
+## Areas of Interest
+
+::: {.grid .grid-2 .mt-8}
+::: {.card}
+### Professional Opportunities
+I'm actively seeking full-time positions in:
+- Supply chain strategy and consulting roles
+- Operations and process improvement positions  
+- Logistics and procurement management opportunities
+- Technology-driven supply chain transformation initiatives
+
+*Open to discussing roles that align with my MBA background and financial expertise.*
+:::
+
+::: {.card}
+### Collaboration & Projects
+Interested in partnerships involving:
+- Supply chain and operations case study development
+- Research collaborations on logistics, sustainability, and process optimization
+- Consulting projects focused on operations strategy and efficiency
+- Pro bono advisory for small businesses on supply chain improvement
+
+*I enjoy tackling challenging problems with innovative solutions.*
+:::
+
+::: {.card}
+### Speaking & Mentoring
+Available for:
+- MBA program guest lectures
+- Career guidance sessions
+- Industry panel discussions
+- Student mentoring programs
+
+*Passionate about sharing knowledge and supporting the next generation of business leaders.*
+:::
+
+::: {.card}
+### Networking & Learning
+Active participation in:
+- Professional conferences
+- Industry meetups
+- Alumni networking events
+- Continuing education workshops
+
+*Always looking to expand my professional network and learn from industry experts.*
+:::
+:::
+
+## Communication Preferences
+
+::: {.mt-8}
+**Response Time:** I typically respond to emails within 24 hours during business days.
+
+**Best Contact Methods:**
+- **Email:** Preferred for detailed discussions and formal inquiries
+- **Phone:** Monday-Friday, 9 AM - 6 PM PST for immediate matters
+- **LinkedIn:** Excellent for professional networking and introductions
+
+**Meeting Options:**
+- In-person meetings available in the Greater Vancouver area
+- Virtual meetings via Zoom, Microsoft Teams, or Google Meet
+- Coffee meetings and informal discussions welcome
+:::
+
+## Current Focus Areas
+
+::: {.mt-6}
+I'm particularly interested in discussing:
+
+- **Supply Chain Resilience:** Strategies to manage risks and disruptions in global networks
+- **Operations Optimization:** Lean practices, process improvement, and cost efficiency
+- **Sustainable Supply Chains:** ESG integration, green logistics, and circular economy models
+- **Technology in Operations:** Applications of automation, AI, and Industry 4.0 in supply chain management
+- **MBA Experience:** Sharing insights on graduate business education and career pathways in operations and supply chain management
+:::
+
+## Professional Availability
+
+::: {.grid .grid-2 .mt-8}
+::: {.card}
+### Immediate Availability
+- **Consulting Projects:** Available for short-term engagements
+- **Speaking Opportunities:** Open calendar for educational events
+- **Networking Events:** Active participant in professional gatherings
+- **Mentoring Sessions:** Flexible scheduling for career guidance
+:::
+
+::: {.card}
+### Future Opportunities
+- **Full-time Positions:** Seeking roles starting Summer/Fall 2026
+- **Internship Extensions:** Open to extending current arrangements
+- **Research Collaborations:** Long-term academic or industry partnerships
+- **Board Positions:** Interest in nonprofit and startup advisory roles
+:::
+:::
+
+## Quick Connect
+
+::: {.text-center .mt-8 .p-6}
+**Ready to start a conversation?**
+
+Whether you're looking to discuss opportunities, share ideas, or simply expand your professional network, I'm always open to meaningful connections.
+
+**Preferred Introduction:** Brief email with your background, the nature of the opportunity or discussion topic, and suggested next steps.
+
+[Send Email Now](mailto:cassynipah@yahoo.com){.btn .btn-primary .mr-4} [Connect on LinkedIn](https://linkedin.com/in/comfortnipah){.btn .btn-secondary target="_blank"}
+:::
+
+::: {.mt-8}
+---
+
+*I appreciate your interest in connecting. I look forward to hearing from you and exploring how we might work together or support each other's professional objectives.*
+:::
+:::
+:::

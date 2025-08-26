@@ -1,0 +1,122 @@
+::: {.content-section}
+::: {.content-container}
+# Skills & Certificates
+
+*A comprehensive overview of my technical skills, business competencies, professional certifications, and key achievements developed through academic study and professional experience.*
+
+## Technical Skills
+
+::: {.skill-category .mt-6}
+### Data Analysis & Analytics
+::: {.skill-grid}
+<span class="skill-tag">Excel (Advanced)</span>
+<span class="skill-tag">Tableau</span>
+<span class="skill-tag">Statistical Analysis</span>
+<span class="skill-tag">Data Visualization</span>
+:::
+:::
+
+::: {.skill-category}
+### Business Software & Tools
+::: {.skill-grid}
+<span class="skill-tag">Microsoft Office Suite</span>
+<span class="skill-tag">Google Workspace</span>
+<span class="skill-tag">SAP</span>
+<span class="skill-tag">Zoom/Teams</span>
+<span class="skill-tag">SharePoint</span>
+:::
+:::
+
+## Business Skills
+
+::: {.skill-category .mt-8}
+### Strategic Planning & Analysis
+::: {.skill-grid}
+<span class="skill-tag">Corporate Strategy</span>
+<span class="skill-tag">Market Analysis</span>
+<span class="skill-tag">Competitive Intelligence</span>
+<span class="skill-tag">SWOT Analysis</span>
+<span class="skill-tag">Porter's Five Forces</span>
+<span class="skill-tag">Business Model Canvas</span>
+<span class="skill-tag">Strategic Planning</span>
+<span class="skill-tag">Risk Assessment</span>
+:::
+:::
+
+::: {.skill-category}
+### Financial Management
+::: {.skill-grid}
+<span class="skill-tag">Financial Modeling</span>
+<span class="skill-tag">Valuation Methods</span>
+<span class="skill-tag">Budget Planning</span>
+<span class="skill-tag">Investment Analysis</span>
+<span class="skill-tag">Cost-Benefit Analysis</span>
+<span class="skill-tag">ROI Optimization</span>
+<span class="skill-tag">Financial Reporting</span>
+<span class="skill-tag">Cash Flow Analysis</span>
+:::
+:::
+
+::: {.skill-category}
+### Project & Operations Management
+::: {.skill-grid}
+<span class="skill-tag">Agile Methodology</span>
+<span class="skill-tag">Scrum Framework</span>
+<span class="skill-tag">Process Optimization</span>
+<span class="skill-tag">Lean Management</span>
+<span class="skill-tag">Quality Control</span>
+<span class="skill-tag">Resource Planning</span>
+<span class="skill-tag">Timeline Management</span>
+<span class="skill-tag">Stakeholder Management</span>
+:::
+:::
+
+## Leadership & Soft Skills
+
+::: {.skill-category .mt-8}
+### Communication & Presentation
+::: {.skill-grid}
+<span class="skill-tag">Public Speaking</span>
+<span class="skill-tag">Executive Presentations</span>
+<span class="skill-tag">Technical Writing</span>
+<span class="skill-tag">Cross-cultural Communication</span>
+<span class="skill-tag">Negotiation</span>
+<span class="skill-tag">Conflict Resolution</span>
+<span class="skill-tag">Meeting Facilitation</span>
+:::
+:::
+
+::: {.skill-category}
+### Team Leadership
+::: {.skill-grid}
+<span class="skill-tag">Team Leadership</span>
+<span class="skill-tag">Change Management</span>
+<span class="skill-tag">Performance Management</span>
+<span class="skill-tag">Mentoring & Coaching</span>
+<span class="skill-tag">Decision Making</span>
+<span class="skill-tag">Problem Solving</span>
+<span class="skill-tag">Critical Thinking</span>
+:::
+:::
+
+## Language Proficiency
+
+::: {.grid .grid-4 .mt-8}
+::: {.card}
+### English
+**Native Proficiency**
+- Business communication
+- Academic writing
+- Public speaking
+:::
+:::
+
+::: {.text-center .mt-8}
+**Ready to apply these skills?**
+
+I'm always eager to take on new challenges and apply my expertise to meaningful projects. Let's discuss how I can contribute to your organization's success.
+
+[Get In Touch](contact.qmd){.btn .btn-primary}
+:::
+:::
+:::

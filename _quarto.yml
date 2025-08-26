@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Comfort Nipah"
+  navbar:
+    background: "hsl(0, 0%, 100%)"
+    foreground: "hsl(222.2, 84%, 4.9%)"
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Resume"
+        href: resume.qmd
+      - text: "Skills & Certificates"
+        href: skills.qmd
+      - text: "Contact"
+        href: contact.qmd
+  page-footer:
+    background: "hsl(210, 40%, 98%)"
+    center: |
+      <div style="text-align: center; padding: 2rem 0; color: hsl(215.4, 16.3%, 46.9%);">
+        <p>&copy; 2025 Comfort Nipah. All rights reserved.</p>
+        <p style="font-size: 0.875rem; margin-top: 0.5rem;">Built with <a href="https://quarto.org" target="_blank" style="color: hsl(222.2, 84%, 4.9%); text-decoration: none;">Quarto</a></p>
+      </div>
+
+format:
+  html:
+    theme: 
+      light: [cosmo, custom.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+    title-block-banner: false
+    smooth-scroll: true
+    code-fold: false
+    html-math-method: katex

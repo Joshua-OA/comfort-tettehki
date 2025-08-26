@@ -1,0 +1,119 @@
+::: {.content-section}
+::: {.content-container}
+# Resume
+
+::: {.text-center .mb-8}
+**MBA Student | Supply Chain Management Analyst | Strategic Thinker**
+:::
+
+## Professional Experience
+
+::: {.timeline .mt-6}
+::: {.timeline-item}
+::: {.timeline-date}
+April 2022 - August 2024
+:::
+
+::: {.timeline-content}
+### Senior Tax Associate
+**KPMG Ghana**
+
+**Key Achievements:**
+- Led cross-border projects for multinational clients
+- corporate tax filing for 30+ clients
+- Advised businesses on restructuring for tax efficiency
+- Trained and supervised a team of 4 junior associates
+- Collaborated with legal and audit teams to streamline documentation and reporting
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+Novemebr 2020 - April 2022
+:::
+
+::: {.timeline-content}
+### Audit Associate
+**KPMG Ghana**
+
+**Key Achievements:**
+- Supported senior advisors with audit preparations.
+:::
+:::
+:::
+
+## Education
+
+::: {.timeline .mt-8}
+::: {.timeline-item}
+::: {.timeline-date}
+2024 - present
+:::
+
+::: {.timeline-content}
+### Master of Business Administration (MBA)
+**University Canada West**
+ 
+**Concentration:** Operations Management
+:::
+:::
+:::
+
+## Core Competencies
+
+::: {.grid .grid-3 .mt-8}
+::: {.card}
+### Strategic Analysis
+- Market research & competitive intelligence
+- SWOT and Porter's Five Forces analysis
+- Business model evaluation
+- Strategic planning frameworks
+:::
+
+::: {.card}
+### Financial Management
+- Advanced financial modeling
+- Investment analysis & valuation
+- Budget planning & cost analysis
+- ROI optimization strategies
+:::
+
+::: {.card}
+### Leadership & Management
+- Cross-functional team leadership
+- Project management (Agile/Scrum)
+- Change management
+- Stakeholder relationship management
+:::
+
+::: {.card}
+### Data & Analytics
+- Excel advanced functions
+- Data visualization & reporting
+:::
+
+::: {.card}
+### Digital Innovation
+- Digital transformation strategy
+- Technology adoption planning
+- Digital marketing fundamentals
+:::
+
+::: {.card}
+### Communication
+- Executive presentations
+- Technical writing & documentation
+- Cross-cultural communication
+- Public speaking & facilitation
+:::
+:::
+
+::: {.text-center .mt-8}
+**Interested in learning more?**
+
+For detailed project descriptions, references, or to discuss specific experiences, please don't hesitate to reach out.
+
+[Contact Me](contact.qmd){.btn .btn-primary}
+:::
+:::
+:::
