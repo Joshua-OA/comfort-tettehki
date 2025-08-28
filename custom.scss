@@ -1,12 +1,15 @@
 /*-- scss:defaults --*/
-// shadcn-ui inspired color palette
-$primary: hsl(222.2, 84%, 4.9%);
-$secondary: hsl(210, 40%, 98%);
-$muted: hsl(210, 40%, 96%);
-$accent: hsl(210, 40%, 94%);
-$border: hsl(214.3, 31.8%, 91.4%);
-$foreground: hsl(222.2, 84%, 4.9%);
-$muted-foreground: hsl(215.4, 16.3%, 46.9%);
+// Enhanced shadcn-inspired color palette with subtle color variations
+$primary: hsl(217, 32%, 17%);           // Slate gray
+$secondary: hsl(210, 40%, 98%);         // Cool white
+$muted: hsl(210, 40%, 96%);            // Light slate
+$accent: hsl(40, 25%, 87%);            // Warm beige (your original)
+$accent-secondary: hsl(210, 60%, 80%);  // Soft blue
+$accent-tertiary: hsl(25, 25%, 75%);   // Warm taupe
+$success: hsl(158, 64%, 52%);          // Emerald green
+$border: hsl(214, 32%, 91%);           // Neutral border
+$foreground: hsl(217, 32%, 17%);       // Slate gray
+$muted-foreground: hsl(215, 16%, 47%); // Medium slate
 
 $font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 $headings-font-family: $font-family-sans-serif;
@@ -14,11 +17,14 @@ $headings-font-weight: 600;
 
 /*-- scss:rules --*/
 :root {
-  --primary: 222.2 84% 4.9%;
+  --primary: 217 32% 17%;
   --secondary: 210 40% 98%;
   --muted: 210 40% 96%;
-  --accent: 210 40% 94%;
-  --border: 214.3 31.8% 91.4%;
-  --foreground: 222.2 84% 4.9%;
-  --muted-foreground: 215.4 16.3% 46.9%;
+  --accent: 40 25% 87%;
+  --accent-secondary: 210 60% 80%;
+  --accent-tertiary: 25 25% 75%;
+  --success: 158 64% 52%;
+  --border: 214 32% 91%;
+  --foreground: 217 32% 17%;
+  --muted-foreground: 215 16% 47%;
 }
