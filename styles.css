@@ -325,8 +325,8 @@ p {
 
 .timeline-date {
   display: inline-block;
-  background: #8b9d83;
-  color: white;
+  background: #dedede;
+  color: white !important;
   padding: 0.25rem 0.75rem;
   border-radius: 6px;
   font-size: 0.75rem;
