@@ -29,7 +29,7 @@ April 2022 - August 2024
 
 ::: {.timeline-item}
 ::: {.timeline-date}
-Novemebr 2020 - April 2022
+November 2020 - April 2022
 :::
 
 ::: {.timeline-content}
@@ -55,6 +55,17 @@ Novemebr 2020 - April 2022
 **University Canada West**
  
 **Concentration:** Operations Management
+:::
+:::
+
+::: {.timeline-item}
+::: {.timeline-date}
+2016 - 2020
+:::
+
+::: {.timeline-content}
+### Bachelor of Business Administration (BBA)
+**University of Professional Studies Accra (UPSA)**
 :::
 :::
 :::
